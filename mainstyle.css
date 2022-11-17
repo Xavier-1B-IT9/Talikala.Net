@@ -1,0 +1,198 @@
+/*General CSS Codes*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background-size: 200 200;
+    width: 68%;
+    margin-left: 32%;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+img#banner {
+    width: 1294px;
+    height: 500px;
+}
+
+/*Navigation Codes*/
+div#navigation {
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+
+a.index {
+    text-decoration: none;
+    padding: 5px 55px;
+    margin-left: 5%;
+}
+
+a.sip {
+    text-decoration: none;
+    padding: 5px 55px;
+    margin-left: 2%;
+}
+
+a.background {
+    text-decoration: none;
+    padding: 5px 55px;
+    margin-left: 2%;
+}
+
+a.mapeh {
+    text-decoration: none;
+    padding: 5px 55px;
+    margin-left: 2%;
+}
+
+div#sidebar {
+    background-image: none;
+    width: 200px;
+    height: fit-content;
+    margin-left: 20px;
+    float: right;
+}
+
+div#footer {
+    background-image: none;
+}
+
+p#footer {
+    margin-left: 270px;
+    padding-top: 5px;
+}
+
+h3.sidebar {
+    margin-top: 20px;
+    margin-left: 25px;
+    font-family: 'Secular One', sans-serif;
+}
+
+a.source1 {
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+a.source2 {
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+a.source3 {
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+h3.members {
+    color: #232a45;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-family: 'Secular One', sans-serif;
+}
+
+/*Members Codes*/
+img#josef {
+    width: 200px;
+    height: 200px;
+}
+
+h3#josef {
+    color: #513143;
+    font-family: 'League Spartan', sans-serif;
+}
+
+img#haily {
+    width: 200px;
+    height: 200px;
+}
+
+h3#haily {
+    color: #513143;
+    font-family: 'League Spartan', sans-serif;
+}
+
+img#lian {
+    width: 200px;
+    height: 200px;
+}
+
+h3#lian {
+    color: #513143;
+    font-family: 'League Spartan', sans-serif;
+}
+
+img#zoe {
+    width: 200px;
+    height: 200px;
+}
+
+h3#zoe {
+    color: #513143;
+    font-family: 'League Spartan', sans-serif;
+}
+
+img#elysse {
+    width: 200px;
+    height: 200px;
+}
+
+h3#elysse {
+    color: #513143;
+    font-family: 'League Spartan', sans-serif;
+}
+
+img#josef2 {
+    width: 200px;
+    height: 200px;
+}
+
+h3#josef2 {
+    color: #543425;
+    font-family: 'League Spartan', sans-serif;
+}
+
+img#haily2 {
+    width: 200px;
+    height: 200px;
+}
+
+h3#haily2 {
+    color: #543425;
+    font-family: 'League Spartan', sans-serif;
+}
+
+img#lian2 {
+    width: 200px;
+    height: 200px;
+}
+
+h3#lian2 {
+    color: #543425;
+    font-family: 'League Spartan', sans-serif;
+}
+
+img#zoe2 {
+    width: 200px;
+    height: 200px;
+}
+
+h3#zoe2 {
+    color: #543425;
+    font-family: 'League Spartan', sans-serif;
+}
+
+img#elysse2 {
+    width: 200px;
+    height: 200px;
+}
+
+h3#elysse2 {
+    color: #543425;
+    font-family: 'League Spartan', sans-serif;
+}
